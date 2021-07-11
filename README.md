@@ -19,6 +19,6 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true" />
+    <img align="center" src="https://github-readme-stats-bear.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true" />
 </a>
