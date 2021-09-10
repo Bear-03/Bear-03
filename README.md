@@ -22,5 +22,5 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats-bear.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
-    <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true" />
+    <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true&langs_count=10" />
 </a>
