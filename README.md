@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=bear-03&label=Profile%20views&color=0e75b6&style=flat" alt="bear-03" />
 
 
-### Languages and Tools:
+# Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -24,3 +24,11 @@
     <img align="center" src="https://github-readme-stats-bear.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
     <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true&langs_count=10" />
 </a>
+
+# Contact me!
+- I'm looking for projects to contribute to and dev teams to join
+- I also do commissions
+
+**Discord:** Bear_03#2935
+
+**E-mail:** bear03.contact@gmail.com
