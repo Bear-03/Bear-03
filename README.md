@@ -19,11 +19,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-bear.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
-    <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true&langs_count=10" />
-</a>
+    
 
 # Contact me!
 - I'm looking for projects to contribute to and dev teams to join
@@ -32,3 +28,10 @@
 **Discord:** Bear_03#2935
 
 **E-mail:** bear03.contact@gmail.com
+
+# Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-bear.vercel.app/api?username=bear-03&count_private=true&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=bear-03&layout=compact&theme=dark&count_private=true&langs_count=10" />
+</a>
