@@ -25,7 +25,7 @@
 - I'm looking for projects to contribute to and dev teams to join
 - I also do commissions
 
-**Discord:** Bear_03#2935
+**Discord:** bear_03
 
 **E-mail:** bear03.contact@gmail.com
 
